@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Calls-Comunicacoes/.github/main/profile/assets/logo-256.png" alt="Calls" width="96" />
+<img src="https://raw.githubusercontent.com/Calls-Comunicacoes/.github/main/profile/assets/logo-256.png" alt="Zync" width="96" />
 
-<h1>Calls Releases</h1>
+<h1>Zync Releases</h1>
 
-<p>Instaladores oficiais e manifestos de atualização do Calls.</p>
+<p>Instaladores oficiais e manifestos de atualização do Zync.</p>
 
 <p>
   <a href="https://github.com/Calls-Comunicacoes/calls-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Calls-Comunicacoes/calls-releases?style=flat-square&labelColor=070C4C&color=1C7FD2&label=versão" alt="Última versão" /></a>
@@ -20,20 +20,20 @@
 
 ## Instalar
 
-1. Baixe `Calls-<versão>-win-x64.exe` na [última release](https://github.com/Calls-Comunicacoes/calls-releases/releases/latest) ou em [calls.fbrdev.com.br](https://calls.fbrdev.com.br).
-2. Execute o instalador. O Calls abre sozinho ao terminar.
+1. Baixe `Zync-<versão>-win-x64.exe` na [última release](https://github.com/Calls-Comunicacoes/calls-releases/releases/latest) ou em [calls.fbrdev.com.br](https://calls.fbrdev.com.br).
+2. Execute o instalador. O Zync abre sozinho ao terminar.
 
 Depois de instalado, o app procura atualizações ao abrir e a cada 4 horas, e oferece **Reiniciar e atualizar** quando houver versão nova.
 
 > [!TIP]
-> Baixe o Calls só por este repositório ou pelo site oficial. Arquivos de outras fontes podem ter sido alterados.
+> Baixe o Zync só por este repositório ou pelo site oficial. Arquivos de outras fontes podem ter sido alterados.
 
 ## O que tem em cada release
 
 | Arquivo | Para que serve |
 |---|---|
-| `Calls-<versão>-win-x64.exe` | Instalador para Windows |
-| `Calls-<versão>-win-x64.zip` | Pacote que o Calls Launcher baixa e verifica |
+| `Zync-<versão>-win-x64.exe` | Instalador para Windows |
+| `Zync-<versão>-win-x64.zip` | Pacote que o Zync Launcher baixa e verifica |
 | `latest.yml` e `*.blockmap` | Metadados do atualizador automático (diferencial) |
 | `manifest-<canal>.json` | Versão, tamanho, SHA-512 e assinatura Ed25519 do pacote, por canal |
 
@@ -46,4 +46,4 @@ Encontrou um bug? Veja [onde pedir suporte](https://github.com/Calls-Comunicacoe
 
 ---
 
-<sub>© Calls Comunicações · Feito no Brasil</sub>
+<sub>© Zync · Feito no Brasil</sub>
